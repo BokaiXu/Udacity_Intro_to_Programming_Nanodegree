@@ -1,0 +1,41 @@
+.italicized{
+font-style: italic;
+}
+.bold{
+font-weight: bold;
+}
+.nodots{
+list-style-type: none;
+margin: 0;
+padding: 0;
+}
+.border{
+border-style: solid;
+border-width: thin;
+border-color: lightgrey;
+width:320px;
+margin: 10px;
+padding-top: 1px;
+}
+.border_hidden{
+border-style: hidden;
+width:310px;
+margin:10px;
+padding-top: 1px;
+padding-bottom: 5px;
+}
+.border_outside{
+border-style: solid;
+border-width: thin;
+border-color: lightgrey;
+width:340px;
+box-shadow: 5px 10px lightgrey;
+padding-top:1px;
+}
+.border_pic{
+border-style: hidden;
+width:320px;
+margin:10px;
+padding-top: 1px;
+padding-bottom: 1px;
+}
